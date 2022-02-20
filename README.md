@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Boin-Kau&show_icons=true&hide_border=true)](https://github.com/Boin-Kau)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boin-Kau&layout=compact)](https://github.com/Boin-Kau)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Boin-Kau&show_icons=true&hide_border=true&theme=radical)](https://github.com/Boin-Kau)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boin-Kau&layout=compact&theme=radical)](https://github.com/Boin-Kau)
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=Css&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
