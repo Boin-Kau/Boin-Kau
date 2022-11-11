@@ -21,4 +21,4 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
 
-[RESUME]: https://copper-calcium-d52.notion.site/4c178742d558425c9f14ed4557bdc1d4)
+[RESUME]: https://copper-calcium-d52.notion.site/4c178742d558425c9f14ed4557bdc1d4
