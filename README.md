@@ -3,7 +3,8 @@
 
 ### 안녕하세요! 함께 성장하는 것을 즐기는 개발자 김보인입니다!
 <br/>  
-👻 For More Info...  [RESUME]
+👻 For More Info...  
+[RESUME](https://copper-calcium-d52.notion.site/4c178742d558425c9f14ed4557bdc1d4)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Boin-Kau&show_icons=true&hide_border=true&theme=radical)](https://github.com/Boin-Kau)
 
@@ -20,5 +21,3 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
-
-[RESUME]: https://copper-calcium-d52.notion.site/4c178742d558425c9f14ed4557bdc1d4
