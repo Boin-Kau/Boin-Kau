@@ -4,4 +4,4 @@ Hi! 👋 I am a junior Application Architecture capable of Frontend & Backend De
 
 - I enjoy learning new skills
 - Working at [@LG-CNS](https://github.com/LG-CNS)
-- Skill: Java/Spring, Typescript/React, AWS, KT Cloud, CI/CD
+- Skill: Java/Spring, Typescript/React, AWS, KT Cloud, CI/CD, Terraform
