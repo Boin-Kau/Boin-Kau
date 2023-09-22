@@ -2,7 +2,9 @@
 
 Last Updated: 2023. 09. 22.
 
-#### Skills
+<div align="center">
+  <h3>Skills</h3>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
