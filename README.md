@@ -1,7 +1,8 @@
-### Boin Kim - Application Architecture
+### 김보인 Boin Kim
 
-Hi! 👋 I am a junior Application Architecture capable of Frontend & Backend Development. I highly value collaboration and excel in communicating based on technical knowledge. 
+Last Updated: 2023. 09. 22.
 
-- I enjoy learning new skills
-- Working at [@LG-CNS](https://github.com/LG-CNS)
-- Skill: Java/Spring, Typescript/React, AWS, KT Cloud, CI/CD, Terraform
+주력 기술
+- Infra
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  
